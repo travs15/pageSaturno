@@ -1,0 +1,60 @@
+/*Head y logo*/
+img.responsive-img{
+  width: 25%;
+  padding: 1em;
+}
+/*banner*/
+img.banner{
+  width: 90%;
+  border-radius:.5%;
+}
+div.center{
+  background-color: #000000;
+}
+/*intermedio*/
+div.section-grey{
+  padding-top: 5em;
+  background-color:#000000;
+}
+div.row{
+  background-color: #000000;
+}
+h2.center-align{
+  font-family: 'Lato';
+  color: white;
+}
+img.imgStory,.imgMag{
+  width: 100%;
+  border-radius: 50em;
+  background-color: #000000;
+  padding: 2em;
+}
+#row1{
+  background-color: #000000;
+}
+/*tercera parte*/
+img.imgMap{
+  width: 90%;
+}
+div.section-black{
+  background-color: #FFFFFF;
+}
+#row2{
+  background-color: #FFFFFF;
+}
+img.imgP{
+  width: 60%;
+  border-radius: 50%;
+}
+p.descrption{
+  text-align: center;
+  font-size: 1em;
+  color: #000000;
+}
+/*footer*/
+footer.page-footer{
+  background-color: #01B052;
+}
+#rowFoot{
+  background-color: #01B052;
+}
